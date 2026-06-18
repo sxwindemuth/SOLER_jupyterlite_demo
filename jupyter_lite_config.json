@@ -1,0 +1,9 @@
+{
+  "contents": {
+    "jupyterlite-dir": ".",
+    "ignore_globs": [
+      "**/*.pyc",
+      "**/__pycache__/**"
+    ]
+  }
+}
